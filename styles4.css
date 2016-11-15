@@ -108,7 +108,8 @@ span {
 background-image: url('ws_Cliff_Ocean_Rocks_Plants_Sky_1920x1200.jpg');
 background-repeat: no-repeat;
 background-position: top;
-background-size: 1920px 1200px;
+width: 100%;
+height: auto;
 }
 
 #right {
